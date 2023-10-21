@@ -1,4 +1,4 @@
-# azure-fn-http-trigger
+# Azure Function with Http Trigger
 
 Created 2 Azure Functions
   - GetFunction - Accepts name in query string param and returns it
